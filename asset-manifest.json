@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/klopezg95/TODO-task/static/css/main.d4be367e.css",
+    "main.js": "/klopezg95/TODO-task/static/js/main.740ea6be.js",
+    "static/media/delete.svg": "/klopezg95/TODO-task/static/media/delete.253cc7dc4a8049c6ce4f0c4c4251c27b.svg",
+    "index.html": "/klopezg95/TODO-task/index.html",
+    "static/media/check.svg": "/klopezg95/TODO-task/static/media/check.c2dd1a67ffecce4bb79955a5b7690d51.svg",
+    "main.d4be367e.css.map": "/klopezg95/TODO-task/static/css/main.d4be367e.css.map",
+    "main.740ea6be.js.map": "/klopezg95/TODO-task/static/js/main.740ea6be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4be367e.css",
+    "static/js/main.740ea6be.js"
+  ]
+}
