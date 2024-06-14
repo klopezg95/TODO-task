@@ -1,3 +1,18 @@
+Proyecto TODO: Gestión de Tareas
+Este proyecto TODO es una aplicación de gestión de tareas que he desarrollado como parte de mi proceso de aprendizaje. A continuación, se describen las funcionalidades principales y los conocimientos adquiridos durante su desarrollo:
+
+Funcionalidades Principales:
+Añadir Tareas:
+Permite al usuario añadir nuevas tareas con un título y una descripción opcional.
+Listar Tareas:
+Muestra una lista de todas las tareas agregadas, permitiendo una vista rápida del estado actual de las mismas.
+Editar Tareas:
+Posibilidad de editar los detalles de una tarea existente, actualizando el título y la descripción.
+Eliminar Tareas:
+Funcionalidad para eliminar tareas que ya no son necesarias, manteniendo la lista de tareas limpia y organizada.
+Marcar como Completada:
+Opción para marcar las tareas como completadas, ayudando al usuario a realizar un seguimiento de su progreso.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
